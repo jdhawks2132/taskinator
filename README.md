@@ -1,4 +1,8 @@
-Title: Initial Setup
+![taskinator screenshot](https://github.com/jdhawks2132/taskinator/blob/main/Taskinator.png)
+
+# Taskinator
+
+- [Live Deployment Link](https://jdhawks2132.github.io/taskinator/)
 
 ## Requirements
 * Create the task tracking HTML page that needs a:
